@@ -1,2 +1,4 @@
-# comp1711_dog
+# comp1711 dog
 code for procedural programming 
+
+dog
